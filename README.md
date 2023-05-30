@@ -75,7 +75,6 @@ Name | Badges
 
  ## Stats.
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olawills&layout=compact&theme=dark&hide_border=false" /></p>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?olawills=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=olawills&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Williams Olabamidele github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olawills&theme=dark" alt="Tolulope05" /></p>
