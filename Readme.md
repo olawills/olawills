@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/olawillsFlutter" target="blank"><img src="https://img.shields.io/twitter/follow/olawillsFlutter?logo=twitter&style=for-the-badge" alt="Olawills" /></a> </p>
 
-- 🔭 I’m working on **Projects with Flutter, NodeJS and Kotlin**
+- 🔭 I’m working on **Projects with Flutter, GOLANG, SWIFTUI and Kotlin**
 
 - 🌱 I’m also learning **Kotlin Programming, XML and Jetpack compose**
 
-- 💬 You can ask me about **Flutter && NODEJS**
+- 💬 You can ask me about **Flutter, SWIFT && GO**
 
 - 📫 How to reach me **wobnelson6@gmail.com**
 
-- ⚡ Fun fact **I'm a member of ALX Software Engineering Cohort 9**
+- ⚡ Fun fact **I was a member of ALX Software Engineering Cohort 9**
 
  ## 🔗 Links:
  [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://developers.google.com/profile/u/olawills/dashboard)
